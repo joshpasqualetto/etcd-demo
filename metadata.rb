@@ -6,4 +6,4 @@ description      'Installs/Configures etcd-demo'
 long_description 'Installs/Configures etcd-demo'
 version          '0.1.0'
 
-depends 'etcd', '1.3.2'
+depends 'etcd', '1.3.5'
